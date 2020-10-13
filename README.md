@@ -2,7 +2,7 @@
 Information can be found for libraries in rust_webrcon folder
 
 ## Install
-`pip install https://github.com/thegreatstorm/rust_webrcon/archive/master.zip`
+`pip install https://github.com/fieu/rust_webrcon/archive/master.zip`
 
 ## Docs
 
